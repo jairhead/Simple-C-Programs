@@ -30,4 +30,4 @@ A group of very simple C# programs developed for learning.
 An extremely basic C# program that was written just to get something to compile & run in C#!
 
 ### Advanced Hello World
-A slightly more advanced Hello World program that was written just to get something to compile & run in C#!
+A less-basic version of 'Hello World' that allows you to pass in options flags for fancy printing.
