@@ -1,8 +1,8 @@
-# Hello World
-Hello World in C#
+# Advanced Hello World
+Advanced Hello World in C#
 
 ## Description
-An extremely basic C# program that was written just to get something to compile & run in C#!
+A less-basic version of 'Hello World' that allows you to pass in options flags for fancy printing.
 
 ## Compiling Instructions (Git Bash)
 * Add C# compiler (`csc.exe`) to your PATH (`/c/Windows/Microsoft.NET/Framework/<version>`)

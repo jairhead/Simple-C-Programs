@@ -5,12 +5,10 @@ A group of very simple C# programs developed for learning.
 * [Setup](#setup)
 * [Programs](#programs)
 
-## Setup
-* Add the C# compiler (`csc.exe`) to your PATH (`/c/Windows/Microsoft.NET/Framework/<version>`)
+## Setup (Git Bash)
 * `git clone <repo name>` to clone the repository to your computer
 * `cd` into the simple program directory (e.g. HelloWorld)
-* `csc <program name>` to compile the program
-* `./<program name>` to run the program
+* Follow instructions in `README.md` to compile and run
 
 ## Programs
 ### Hello World
