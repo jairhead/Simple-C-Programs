@@ -1,4 +1,5 @@
+Option Explicit
+
 Sub Kerning()
-    Console.WriteLine("Hello World!")
-    Console.ReadKey()
+    MsgBox "Hello World!"
 End Sub
