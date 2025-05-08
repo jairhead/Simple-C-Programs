@@ -3,6 +3,10 @@
 ' May 7, 2025
 Option Explicit
 
-Sub ADAKern()
+Public Sub ADAKern()
+    Dim s As Shape
+    Dim sr As ShapeRange
+    Set sr = ActiveSelectionRange
+
     MsgBox "Hello World!"
 End Sub
